@@ -1,0 +1,2 @@
+module MothHelper
+end
