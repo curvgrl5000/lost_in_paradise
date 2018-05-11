@@ -43,3 +43,17 @@ section {
   @extend .row;
   margin-top: 20px;
 }
+
+h2 {
+  text-align: center;
+  color: yellow;
+}
+
+.big_shot {
+  background-image: url('https://images.unsplash.com/photo-1512332769329-a830bbcedf07?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9db0a0aa31760d27c4e5c4bbeefd384f&auto=format&fit=crop&w=700&q=60');
+  background-size: cover;
+  width: 100hv;
+  height: 100vh;
+  display: block;
+  position: relative
+}
